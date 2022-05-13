@@ -1,4 +1,4 @@
-Getting S tarted
+Getting Started
 ---------------
 
 Please follow the instructions provided by the instructor to start your
